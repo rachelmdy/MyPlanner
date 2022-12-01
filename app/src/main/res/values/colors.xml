@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="foodie_text_color">#FD27B049</color>
+    <color name="start_color_btn_gradient">#619c1a</color>
+    <color name="end_color_btn_gradient">#88ed0e</color>
+    <color name="text_color_btn_gradient">#fff</color>
+    <color name="background_input_fields_start_color">#443C20</color>
+    <color name="background_input_fields_end_color">#e8a564</color>
+    <color name="fb_background">#1c1cd6</color>
+    <color name="google_background">#C3463B</color>
+    <color name="colorPrimary">#192A56</color>
+
+
+    <color name="colorPrimaryDark">#99BE6D</color>
+    <color name="colorAccent">#7BBD7D</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="purple_200">#90CAF9</color>
+    <color name="blue_600">#716847</color>
+    <color name="blue_700">#3A4928</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="green_A700">#00C853</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="semi_white">#E6FFFFFF</color>
+    <color name="gray">#DFDFDF</color>
+
+    <color name="white_smoke">#F5F5F5</color>
+    <color name="bg_menu">#66000000</color>
+    <color name="semi_black">#7C7C7C</color>
+    <color name="red">#FF0000</color>
+
+
+</resources>

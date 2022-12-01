@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/drawable/background_input_field.xml" value="0.1" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/drawable/fbbackground.xml" value="0.1" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.1355" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1355" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1355" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_all_notes_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_create_new_note.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_forgot_password_.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_important_notes.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_list_note.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_main_home.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_main_todo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_note_details_screen.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_reset_password_.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_sign_in_.xml" value="0.22" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_signup_.xml" value="0.22" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/activity_update_note.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/add_newtask.xml" value="0.17552083333333332" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/custom_notes_details_listview.xml" value="0.1" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/custom_notes_listview.xml" value="0.1" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/layout/task_layout.xml" value="0.1" />
+        <entry key="..\:/Informatika UNSOED 2020/SEMESTER 5/Pemrograman Mobile/MyNotes-master/app/src/main/res/menu/mainmenu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
